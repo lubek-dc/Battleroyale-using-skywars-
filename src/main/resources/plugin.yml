@@ -1,0 +1,5 @@
+name: Battleroyalesky
+version: ${project.version}
+main: me.lubek.battleroyalesky.Battleroyalesky
+api-version: 1.16
+description: Battlreroyale
