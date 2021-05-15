@@ -8,6 +8,7 @@ public final class Battleroyalesky extends JavaPlugin {
     public void onEnable() {
         // Plugin startup logic
         getServer().getPluginManager().registerEvents(new events(),this);
+
     }
 
     @Override
